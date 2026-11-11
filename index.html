@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>splot. — Twój osobisty drugi mózg AI</title>
+    <meta name="description" content="Inteligentny, osobisty drugi mózg AI. Powiedz raz. Zapamiętaj na zawsze. Połącz wszystko." />
+    <meta property="og:title" content="splot. — Twój osobisty drugi mózg AI" />
+    <meta property="og:description" content="Inteligentny, osobisty drugi mózg AI. Powiedz raz. Zapamiętaj na zawsze. Połącz wszystko." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <style>
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      }
+      .font-serif-editorial {
+        font-family: 'Newsreader', Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+      }
+    </style>
+    <script>
+      window.addEventListener('unhandledrejection', function(event) {
+        var msg = (event.reason && (event.reason.message || event.reason.toString())) || '';
+        if (msg.includes('WebSocket') || msg.includes('ws:disconnect')) {
+          event.preventDefault();
+        }
+      });
+    </script>
+  </head>
+  <body class="bg-[#F7F6F2] text-[#202020] antialiased selection:bg-[#D9D0FF] selection:text-[#202020]">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+

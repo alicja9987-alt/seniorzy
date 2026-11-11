@@ -1,0 +1,840 @@
+{
+  "items": [
+    {
+      "id": "wspomnienia_3snacng_1793533190390",
+      "title": "Spotkanie z jubilerem w Gdańsku",
+      "description": "W Gdańsku spotkałam świetnego jubilera — inspiracja do autorskich projektów.",
+      "categories": [
+        "wspomnienia",
+        "pomysly"
+      ],
+      "raw_input": "W Gdańsku spotkałam super jubilera",
+      "recorded_at": "2026-11-01T11:39:50.390Z",
+      "ai_classification_reason": "Rozpoznano wspomnienie spotkania w konkretnym mieście.",
+      "tags": [
+        "jubiler",
+        "spotkanie",
+        "gdańsk"
+      ],
+      "type": "wspomnienia",
+      "mood": "pozytywny",
+      "linked_people": [],
+      "photo_urls": []
+    },
+    {
+      "id": "kalendarz_wbv4pk5_1793533183132",
+      "title": "Wyjazd do Gdańska",
+      "description": "Zaplanowany wyjazd / pobyt w Gdańsku.",
+      "categories": [
+        "kalendarz"
+      ],
+      "raw_input": "Jadę do Gdańska na weekend",
+      "recorded_at": "2026-11-01T11:39:43.132Z",
+      "target_date": "2026-11-01",
+      "ai_classification_reason": "Wykryto plany wyjazdowe powiązane z miastem.",
+      "tags": [
+        "wyjazd",
+        "podróż",
+        "gdańsk"
+      ],
+      "type": "kalendarz",
+      "start_time": "2026-11-01",
+      "is_all_day": true,
+      "is_annual_recurring": false,
+      "location": "Gdańsk",
+      "linked_person_ids": []
+    },
+    {
+      "id": "miejsca_hduarhm_1793533183132",
+      "title": "Gdańsk",
+      "description": "Węzeł lokacyjny: Gdańsk. Miejsce spotkań, wydarzeń i wspomnień.",
+      "categories": [
+        "miejsca"
+      ],
+      "raw_input": "Jadę do Gdańska na weekend",
+      "recorded_at": "2026-11-01T11:39:43.132Z",
+      "ai_classification_reason": "Rozpoznano miasto/lokalizację: Gdańsk. Węzeł służy jako kotwica przestrzenna.",
+      "tags": [
+        "miejsce",
+        "lokalizacja",
+        "gdańsk"
+      ],
+      "type": "miejsca",
+      "city": "Gdańsk",
+      "country": "Polska",
+      "visit_count": 2,
+      "last_visited": "2026-11-01",
+      "notes": "Węzeł lokacyjny: Gdańsk. Miejsce spotkań, wydarzeń i wspomnień."
+    },
+    {
+      "id": "wspomnienia_iyr6z6n_1793533171166",
+      "title": "Pamięć o Kasi: wiadomość o odejściu",
+      "description": "Kasia odeszła. Wszystkie wspomnienia, chwile spędzone przy kawie i wspólne projekty pozostają bezpiecznie ocalone w pamięci.",
+      "categories": [
+        "wspomnienia"
+      ],
+      "raw_input": "Kasia umarła",
+      "recorded_at": "2026-11-01T11:39:31.166Z",
+      "target_date": "2026-11-01",
+      "ai_classification_reason": "Wykryto przejście życiowe (odejście bliskiej osoby) — system utrwala pamięć i modyfikuje profil.",
+      "tags": [
+        "kasia",
+        "pamięć",
+        "in_memoriam"
+      ],
+      "type": "wspomnienia",
+      "mood": "pozytywny",
+      "linked_people": [],
+      "photo_urls": []
+    },
+    {
+      "id": "projekty_660eh9l_1793407165930",
+      "title": "Robienie tatuaży",
+      "description": "Nowy projekt i pasja artystyczna — tworzenie tatuaży. Wymaga sprawnego zaplecza technicznego (w tym drukarki).",
+      "categories": [
+        "projekty",
+        "o_mnie"
+      ],
+      "raw_input": "Warto ogarnąć drukarkę w najbliższym czasie, żeby robić tatuaże, a drukarka jest niezbędna do tych tatuaży",
+      "recorded_at": "2026-10-31T00:39:25.930Z",
+      "ai_classification_reason": "Rozpoznano cel i przedsięwzięcie długoterminowe.",
+      "tags": [
+        "tatuaże",
+        "projekt",
+        "sztuka"
+      ],
+      "type": "projekty",
+      "status": "w_trakcie",
+      "goals": []
+    },
+    {
+      "id": "zadania_hayolz6_1793407165930",
+      "title": "Ogarnąć drukarkę do tatuaży",
+      "description": "Drukarka jest niezbędna do przygotowywania wzorów i szablonów tatuaży w najbliższym czasie.",
+      "categories": [
+        "zadania",
+        "projekty"
+      ],
+      "raw_input": "Warto ogarnąć drukarkę w najbliższym czasie, żeby robić tatuaże, a drukarka jest niezbędna do tych tatuaży",
+      "recorded_at": "2026-10-31T00:39:25.930Z",
+      "target_date": "2026-10-31",
+      "ai_classification_reason": "Rozpoznano zadanie dotyczące sprzętu niezbędnego do projektu.",
+      "tags": [
+        "tatuaże",
+        "drukarka",
+        "sprzęt",
+        "zadanie"
+      ],
+      "type": "zadania",
+      "due_date": "w najbliższym czasie",
+      "is_completed": false,
+      "priority": "wysoki"
+    },
+    {
+      "id": "person_kasia_01",
+      "type": "ludzie",
+      "title": "Kasia",
+      "name": "Kasia",
+      "description": "Bliska przyjaciółka, miłośniczka estetyki i designu.",
+      "categories": [
+        "ludzie"
+      ],
+      "recorded_at": "2026-10-28T16:00:00Z",
+      "ai_classification_reason": "Rozpoznano osobę i profil relacji.",
+      "tags": [
+        "przyjaciółka",
+        "design",
+        "kawa"
+      ],
+      "relationship": "przyjaciółka",
+      "birthdate": "11 kwietnia",
+      "preferences": [
+        "uwielbia tulipany",
+        "pije matchę z mlekiem owsianym"
+      ],
+      "last_interaction_date": "2026-10-28",
+      "avatar_color": "#8C7CF0",
+      "lifecycle_status": "in_memoriam",
+      "status_note": "Wiadomość o śmierci — oznaczono profil jako in memoriam, zarchiwizowano zadania, zachowano wspomnienia"
+    },
+    {
+      "id": "event_kasia_bday",
+      "type": "kalendarz",
+      "title": "Urodziny Kasi",
+      "description": "Coroczne urodziny Kasi. Pamiętać o bukiecie tulipanów.",
+      "categories": [
+        "kalendarz"
+      ],
+      "recorded_at": "2026-10-28T16:05:00Z",
+      "target_date": "2027-04-11",
+      "start_time": "10:00",
+      "is_all_day": true,
+      "is_annual_recurring": true,
+      "ai_classification_reason": "Wydarzenie cykliczne powiązane z urodzinami.",
+      "tags": [
+        "urodziny",
+        "kasia",
+        "święto"
+      ],
+      "linked_person_ids": [
+        "person_kasia_01"
+      ]
+    },
+    {
+      "id": "memory_coffee_kasia",
+      "type": "wspomnienia",
+      "title": "Kawa z Kasią i burza mózgów",
+      "description": "Spotkałyśmy się w kawiarni na Mokotowie. Rozmawiałyśmy o biżuterii, życiu i podróżach. Wspomniała, że uwielbia tulipany i ma urodziny 11 kwietnia.",
+      "categories": [
+        "wspomnienia"
+      ],
+      "recorded_at": "2026-10-28T17:30:00Z",
+      "target_date": "2026-10-28",
+      "ai_classification_reason": "Opis osobistego doświadczenia i minionego spotkania.",
+      "tags": [
+        "kawiarnia",
+        "spotkanie",
+        "rozmowa"
+      ],
+      "mood": "inspirujący",
+      "location": "Kawiarnia Mokotów",
+      "linked_people": [
+        "Kasia"
+      ]
+    },
+    {
+      "id": "idea_jewelry_brand",
+      "type": "pomysly",
+      "title": "Autorska linia biżuterii organicznej",
+      "description": "Pomysł na minimalistyczną markę biżuterii inspirowaną surowymi formami natury, recyklingowane srebro.",
+      "categories": [
+        "pomysly",
+        "projekty"
+      ],
+      "recorded_at": "2026-10-28T18:00:00Z",
+      "ai_classification_reason": "Spontaniczna koncepcja biznesowa i kreatywna.",
+      "tags": [
+        "biznes",
+        "design",
+        "rękodzieło"
+      ],
+      "stage": "inkubowany",
+      "ai_expansion": "Kluczowe filary: 1) Krótkie limitowane serie odlewów, 2) Ekologiczne pakowanie w biodegradowalny len, 3) Sesja zdjęciowa w surowym studio z modelką."
+    },
+    {
+      "id": "task_send_inspo",
+      "type": "zadania",
+      "title": "Wysłać Kasi inspiracje i moodboard do biżuterii",
+      "description": "Zebrać zdjęcia referencyjne i przesłać na WhatsAppie do jutra.",
+      "categories": [
+        "zadania"
+      ],
+      "recorded_at": "2026-10-28T18:15:00Z",
+      "target_date": "2026-10-30",
+      "due_date": "2026-10-30",
+      "is_completed": true,
+      "priority": "wysoki",
+      "ai_classification_reason": "Zobowiązanie do wykonania w określonym terminie.",
+      "tags": [
+        "kasia",
+        "inspiracje",
+        "zadanie"
+      ],
+      "linked_person_id": "person_kasia_01",
+      "lifecycle_status": "archived",
+      "status_note": "[Zarchiwizowane — in memoriam: Kasia]"
+    },
+    {
+      "id": "task_dentist_visit",
+      "type": "zadania",
+      "title": "Wizyta kontrolna u stomatologa",
+      "description": "Gabinet na ul. Pięknej, godzina 15:00.",
+      "categories": [
+        "zadania",
+        "kalendarz"
+      ],
+      "recorded_at": "2026-10-25T11:00:00Z",
+      "target_date": "2026-10-31",
+      "due_date": "2026-10-31",
+      "due_time": "15:00",
+      "is_completed": false,
+      "priority": "średni",
+      "ai_classification_reason": "Zadanie zdrowotne z przypisaną datą.",
+      "tags": [
+        "zdrowie"
+      ]
+    },
+    {
+      "id": "project_brand_launch",
+      "type": "projekty",
+      "title": "Start marki Srebro Organiczne",
+      "description": "Całościowy projekt wdrożenia nowej marki biżuterii na rynek.",
+      "categories": [
+        "projekty"
+      ],
+      "recorded_at": "2026-10-28T18:30:00Z",
+      "ai_classification_reason": "Wieloetapowe przedsięwzięcie strategiczne.",
+      "tags": [
+        "projekt",
+        "biznes"
+      ],
+      "status": "koncepcja",
+      "goals": [
+        "Opracowanie 5 prototypów",
+        "Uruchomienie profilu na Instagramie",
+        "Pierwsza próbna partia"
+      ],
+      "milestones": [
+        {
+          "title": "Moodboard i nazwa",
+          "done": true
+        },
+        {
+          "title": "Konsultacja z jubilerem",
+          "done": false
+        },
+        {
+          "title": "Opakowania",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "inspiration_ceramics",
+      "type": "inspiracje",
+      "title": "Formy organiczne i japońska ceramika",
+      "description": "Estetyka wabi-sabi, nieregularne krawędzie i naturalne tekstury.",
+      "categories": [
+        "inspiracje"
+      ],
+      "recorded_at": "2026-10-20T14:00:00Z",
+      "ai_classification_reason": "Materiał referencyjny i inspiracja wizualna.",
+      "tags": [
+        "estetyka",
+        "wabi-sabi",
+        "design"
+      ],
+      "quote": "„Piękno kryje się w niedoskonałości i upływie czasu.”"
+    },
+    {
+      "id": "aboutme_ceramics_goal",
+      "type": "o_mnie",
+      "title": "Cel: Warsztaty z ceramiki kołowej",
+      "description": "Chcę zapisać się na regularne zajęcia garncarskie w weekendy.",
+      "categories": [
+        "o_mnie"
+      ],
+      "recorded_at": "2026-10-15T09:00:00Z",
+      "ai_classification_reason": "Osobisty cel rozwojowy użytkownika.",
+      "tags": [
+        "rozwój",
+        "pasja"
+      ],
+      "facet": "cel",
+      "status": "aktywny"
+    }
+  ],
+  "temporal_facts": [
+    {
+      "id": "fact_color_pink_past",
+      "subject": "Ulubiony kolor",
+      "value": "różowy",
+      "entity_type": "user",
+      "entity_name": "Ja",
+      "recorded_at": "2026-01-15T10:00:00Z",
+      "valid_from": "2026-01-15",
+      "valid_until": "2026-06-20",
+      "is_active": false,
+      "confidence": 0.95,
+      "change_type": "new",
+      "source_utterance": "Najbardziej lubię kolor różowy.",
+      "verification_status": "potwierdzony"
+    },
+    {
+      "id": "fact_color_blue_current",
+      "subject": "Ulubiony kolor",
+      "value": "błękit",
+      "entity_type": "user",
+      "entity_name": "Ja",
+      "recorded_at": "2026-06-20T15:00:00Z",
+      "valid_from": "2026-06-20",
+      "is_active": true,
+      "confidence": 0.95,
+      "supersedes_id": "fact_color_pink_past",
+      "change_type": "update",
+      "source_utterance": "Teraz zdecydowanie bardziej podoba mi się błękit.",
+      "verification_status": "potwierdzony"
+    },
+    {
+      "id": "fact_kasia_tulips",
+      "subject": "Ulubione kwiaty",
+      "value": "tulipany",
+      "entity_type": "person",
+      "entity_name": "Kasia",
+      "recorded_at": "2026-10-28T16:00:00Z",
+      "valid_from": "2026-10-28",
+      "is_active": true,
+      "confidence": 0.98,
+      "change_type": "new",
+      "source_utterance": "Kasia powiedziała, że uwielbia tulipany.",
+      "verification_status": "potwierdzony"
+    },
+    {
+      "id": "fact_coffee_preference",
+      "subject": "Kawa",
+      "value": "cappuccino z mlekiem owsianym bez cukru",
+      "entity_type": "user",
+      "entity_name": "Ja",
+      "recorded_at": "2026-02-10T08:00:00Z",
+      "valid_from": "2026-02-10",
+      "is_active": true,
+      "confidence": 0.99,
+      "change_type": "new",
+      "source_utterance": "Zawsze zamawiam cappuccino na owsianym bez cukru.",
+      "verification_status": "potwierdzony"
+    },
+    {
+      "id": "fact_1793533171166_uiow",
+      "subject": "Status życiowy",
+      "value": "zmarła / in memoriam",
+      "entity_type": "person",
+      "entity_name": "Kasia",
+      "recorded_at": "2026-11-01T11:39:31.166Z",
+      "valid_from": "2026-11-01",
+      "is_active": true,
+      "confidence": 0.95,
+      "change_type": "new",
+      "source_utterance": "Kasia umarła",
+      "verification_status": "potwierdzony"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1",
+      "source": "memory_coffee_kasia",
+      "target": "person_kasia_01",
+      "label": "spotkanie z"
+    },
+    {
+      "id": "e2",
+      "source": "person_kasia_01",
+      "target": "event_kasia_bday",
+      "label": "urodziny"
+    },
+    {
+      "id": "e3",
+      "source": "memory_coffee_kasia",
+      "target": "idea_jewelry_brand",
+      "label": "zrodził pomysł"
+    },
+    {
+      "id": "e4",
+      "source": "task_send_inspo",
+      "target": "person_kasia_01",
+      "label": "zadanie dla"
+    },
+    {
+      "id": "e5",
+      "source": "idea_jewelry_brand",
+      "target": "project_brand_launch",
+      "label": "część projektu"
+    },
+    {
+      "id": "e6",
+      "source": "inspiration_ceramics",
+      "target": "idea_jewelry_brand",
+      "label": "inspiracja form"
+    },
+    {
+      "id": "edge_midd4mw_1793279585888",
+      "source": "zadania_hayolz6_1793407165930",
+      "target": "projekty_660eh9l_1793407165930",
+      "label": "niezbędna do",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_qx1zx6m_1793533183132",
+      "source": "kalendarz_wbv4pk5_1793533183132",
+      "target": "miejsca_hduarhm_1793533183132",
+      "label": "lokalizacja",
+      "confidence": 0.95
+    },
+    {
+      "id": "edge_35u7bw7_1793533190390",
+      "source": "wspomnienia_3snacng_1793533190390",
+      "target": "miejsca_hduarhm_1793533183132",
+      "label": "miejsce",
+      "confidence": 0.95
+    }
+  ],
+  "inbox": [],
+  "audit_batches": [
+    {
+      "id": "audit_init",
+      "timestamp": "2026-10-29T13:10:03.558Z",
+      "user_input": "Inicjalizacja systemu splot.",
+      "summary": "Załadowano początkowy ekosystem wiedzy, pamięci temporalnej i powiązań.",
+      "actions": [],
+      "can_undo": false
+    },
+    {
+      "id": "audit_1793279585888",
+      "timestamp": "2026-10-29T13:13:05.888Z",
+      "user_input": "Warto ogarnąć drukarkę w najbliższym czasie, żeby robić tatuaże, a drukarka jest niezbędna do tych tatuaży",
+      "summary": "Wyodrębniono 2 rekord(ów) i połączono relacjami.",
+      "actions": [
+        {
+          "type": "create",
+          "category": "zadania",
+          "item_id": "zadania_z2pfb02_1793279585888",
+          "item_title": "Ogarnąć drukarkę do tatuaży",
+          "snapshot": {
+            "id": "zadania_z2pfb02_1793279585888",
+            "title": "Ogarnąć drukarkę do tatuaży",
+            "description": "Drukarka jest niezbędna do przygotowywania wzorów i szablonów tatuaży w najbliższym czasie.",
+            "categories": [
+              "zadania",
+              "projekty"
+            ],
+            "raw_input": "Warto ogarnąć drukarkę w najbliższym czasie, żeby robić tatuaże, a drukarka jest niezbędna do tych tatuaży",
+            "recorded_at": "2026-10-29T13:13:05.888Z",
+            "target_date": "2026-10-29",
+            "ai_classification_reason": "Rozpoznano zadanie dotyczące sprzętu niezbędnego do projektu.",
+            "tags": [
+              "tatuaże",
+              "drukarka",
+              "sprzęt",
+              "zadanie"
+            ],
+            "type": "zadania",
+            "due_date": "w najbliższym czasie",
+            "is_completed": false,
+            "priority": "wysoki"
+          }
+        },
+        {
+          "type": "create",
+          "category": "projekty",
+          "item_id": "projekty_prqa6ta_1793279585888",
+          "item_title": "Robienie tatuaży",
+          "snapshot": {
+            "id": "projekty_prqa6ta_1793279585888",
+            "title": "Robienie tatuaży",
+            "description": "Nowy projekt i pasja artystyczna — tworzenie tatuaży. Wymaga sprawnego zaplecza technicznego (w tym drukarki).",
+            "categories": [
+              "projekty",
+              "o_mnie"
+            ],
+            "raw_input": "Warto ogarnąć drukarkę w najbliższym czasie, żeby robić tatuaże, a drukarka jest niezbędna do tych tatuaży",
+            "recorded_at": "2026-10-29T13:13:05.888Z",
+            "ai_classification_reason": "Rozpoznano cel i przedsięwzięcie długoterminowe.",
+            "tags": [
+              "tatuaże",
+              "projekt",
+              "sztuka"
+            ],
+            "type": "projekty",
+            "status": "w_trakcie",
+            "goals": []
+          }
+        }
+      ],
+      "can_undo": true
+    },
+    {
+      "id": "audit_1793406865948",
+      "timestamp": "2026-10-31T00:34:25.948Z",
+      "user_input": "Warto ogarnąć drukarkę w najbliższym czasie, żeby robić tatuaże, a drukarka jest niezbędna do tych tatuaży",
+      "summary": "Wyodrębniono 2 rekord(ów) i połączono relacjami.",
+      "actions": [
+        {
+          "type": "create",
+          "category": "zadania",
+          "item_id": "zadania_zhj2cct_1793406865948",
+          "item_title": "Ogarnąć drukarkę do tatuaży",
+          "snapshot": {
+            "id": "zadania_zhj2cct_1793406865948",
+            "title": "Ogarnąć drukarkę do tatuaży",
+            "description": "Drukarka jest niezbędna do przygotowywania wzorów i szablonów tatuaży w najbliższym czasie.",
+            "categories": [
+              "zadania",
+              "projekty"
+            ],
+            "raw_input": "Warto ogarnąć drukarkę w najbliższym czasie, żeby robić tatuaże, a drukarka jest niezbędna do tych tatuaży",
+            "recorded_at": "2026-10-31T00:34:25.948Z",
+            "target_date": "2026-10-31",
+            "ai_classification_reason": "Rozpoznano zadanie dotyczące sprzętu niezbędnego do projektu.",
+            "tags": [
+              "tatuaże",
+              "drukarka",
+              "sprzęt",
+              "zadanie"
+            ],
+            "type": "zadania",
+            "due_date": "w najbliższym czasie",
+            "is_completed": false,
+            "priority": "wysoki"
+          }
+        },
+        {
+          "type": "create",
+          "category": "projekty",
+          "item_id": "projekty_13cbmcl_1793406865948",
+          "item_title": "Robienie tatuaży",
+          "snapshot": {
+            "id": "projekty_13cbmcl_1793406865948",
+            "title": "Robienie tatuaży",
+            "description": "Nowy projekt i pasja artystyczna — tworzenie tatuaży. Wymaga sprawnego zaplecza technicznego (w tym drukarki).",
+            "categories": [
+              "projekty",
+              "o_mnie"
+            ],
+            "raw_input": "Warto ogarnąć drukarkę w najbliższym czasie, żeby robić tatuaże, a drukarka jest niezbędna do tych tatuaży",
+            "recorded_at": "2026-10-31T00:34:25.948Z",
+            "ai_classification_reason": "Rozpoznano cel i przedsięwzięcie długoterminowe.",
+            "tags": [
+              "tatuaże",
+              "projekt",
+              "sztuka"
+            ],
+            "type": "projekty",
+            "status": "w_trakcie",
+            "goals": []
+          }
+        }
+      ],
+      "can_undo": true
+    },
+    {
+      "id": "audit_1793407165930",
+      "timestamp": "2026-10-31T00:39:25.930Z",
+      "user_input": "Warto ogarnąć drukarkę w najbliższym czasie, żeby robić tatuaże, a drukarka jest niezbędna do tych tatuaży",
+      "summary": "Wyodrębniono 2 rekord(ów) i połączono relacjami.",
+      "actions": [
+        {
+          "type": "create",
+          "category": "zadania",
+          "item_id": "zadania_hayolz6_1793407165930",
+          "item_title": "Ogarnąć drukarkę do tatuaży",
+          "snapshot": {
+            "id": "zadania_hayolz6_1793407165930",
+            "title": "Ogarnąć drukarkę do tatuaży",
+            "description": "Drukarka jest niezbędna do przygotowywania wzorów i szablonów tatuaży w najbliższym czasie.",
+            "categories": [
+              "zadania",
+              "projekty"
+            ],
+            "raw_input": "Warto ogarnąć drukarkę w najbliższym czasie, żeby robić tatuaże, a drukarka jest niezbędna do tych tatuaży",
+            "recorded_at": "2026-10-31T00:39:25.930Z",
+            "target_date": "2026-10-31",
+            "ai_classification_reason": "Rozpoznano zadanie dotyczące sprzętu niezbędnego do projektu.",
+            "tags": [
+              "tatuaże",
+              "drukarka",
+              "sprzęt",
+              "zadanie"
+            ],
+            "type": "zadania",
+            "due_date": "w najbliższym czasie",
+            "is_completed": false,
+            "priority": "wysoki"
+          }
+        },
+        {
+          "type": "create",
+          "category": "projekty",
+          "item_id": "projekty_660eh9l_1793407165930",
+          "item_title": "Robienie tatuaży",
+          "snapshot": {
+            "id": "projekty_660eh9l_1793407165930",
+            "title": "Robienie tatuaży",
+            "description": "Nowy projekt i pasja artystyczna — tworzenie tatuaży. Wymaga sprawnego zaplecza technicznego (w tym drukarki).",
+            "categories": [
+              "projekty",
+              "o_mnie"
+            ],
+            "raw_input": "Warto ogarnąć drukarkę w najbliższym czasie, żeby robić tatuaże, a drukarka jest niezbędna do tych tatuaży",
+            "recorded_at": "2026-10-31T00:39:25.930Z",
+            "ai_classification_reason": "Rozpoznano cel i przedsięwzięcie długoterminowe.",
+            "tags": [
+              "tatuaże",
+              "projekt",
+              "sztuka"
+            ],
+            "type": "projekty",
+            "status": "w_trakcie",
+            "goals": []
+          }
+        }
+      ],
+      "can_undo": true
+    },
+    {
+      "id": "audit_1793533171166",
+      "timestamp": "2026-11-01T11:39:31.166Z",
+      "user_input": "Kasia umarła",
+      "summary": "Zaktualizowano profil Kasi (oznaczono jako in memoriam). Zadania powiązane z Kasią zostały zarchiwizowane, a wspomnienia ocalone na mapie pamięci.",
+      "actions": [
+        {
+          "type": "create",
+          "category": "wspomnienia",
+          "item_id": "wspomnienia_iyr6z6n_1793533171166",
+          "item_title": "Pamięć o Kasi: wiadomość o odejściu",
+          "snapshot": {
+            "id": "wspomnienia_iyr6z6n_1793533171166",
+            "title": "Pamięć o Kasi: wiadomość o odejściu",
+            "description": "Kasia odeszła. Wszystkie wspomnienia, chwile spędzone przy kawie i wspólne projekty pozostają bezpiecznie ocalone w pamięci.",
+            "categories": [
+              "wspomnienia"
+            ],
+            "raw_input": "Kasia umarła",
+            "recorded_at": "2026-11-01T11:39:31.166Z",
+            "target_date": "2026-11-01",
+            "ai_classification_reason": "Wykryto przejście życiowe (odejście bliskiej osoby) — system utrwala pamięć i modyfikuje profil.",
+            "tags": [
+              "kasia",
+              "pamięć",
+              "in_memoriam"
+            ],
+            "type": "wspomnienia",
+            "mood": "pozytywny",
+            "linked_people": [],
+            "photo_urls": []
+          }
+        }
+      ],
+      "can_undo": true
+    },
+    {
+      "id": "audit_1793533183133",
+      "timestamp": "2026-11-01T11:39:43.133Z",
+      "user_input": "Jadę do Gdańska na weekend",
+      "summary": "Wyodrębniono 2 rekord(ów) i połączono relacjami.",
+      "actions": [
+        {
+          "type": "create",
+          "category": "miejsca",
+          "item_id": "miejsca_hduarhm_1793533183132",
+          "item_title": "Gdańsk",
+          "snapshot": {
+            "id": "miejsca_hduarhm_1793533183132",
+            "title": "Gdańsk",
+            "description": "Węzeł lokacyjny: Gdańsk. Miejsce spotkań, wydarzeń i wspomnień.",
+            "categories": [
+              "miejsca"
+            ],
+            "raw_input": "Jadę do Gdańska na weekend",
+            "recorded_at": "2026-11-01T11:39:43.132Z",
+            "ai_classification_reason": "Rozpoznano miasto/lokalizację: Gdańsk. Węzeł służy jako kotwica przestrzenna.",
+            "tags": [
+              "miejsce",
+              "lokalizacja",
+              "gdańsk"
+            ],
+            "type": "miejsca",
+            "city": "Gdańsk",
+            "country": "Polska",
+            "visit_count": 2,
+            "last_visited": "2026-11-01",
+            "notes": "Węzeł lokacyjny: Gdańsk. Miejsce spotkań, wydarzeń i wspomnień."
+          }
+        },
+        {
+          "type": "create",
+          "category": "kalendarz",
+          "item_id": "kalendarz_wbv4pk5_1793533183132",
+          "item_title": "Wyjazd do Gdańska",
+          "snapshot": {
+            "id": "kalendarz_wbv4pk5_1793533183132",
+            "title": "Wyjazd do Gdańska",
+            "description": "Zaplanowany wyjazd / pobyt w Gdańsku.",
+            "categories": [
+              "kalendarz"
+            ],
+            "raw_input": "Jadę do Gdańska na weekend",
+            "recorded_at": "2026-11-01T11:39:43.132Z",
+            "target_date": "2026-11-01",
+            "ai_classification_reason": "Wykryto plany wyjazdowe powiązane z miastem.",
+            "tags": [
+              "wyjazd",
+              "podróż",
+              "gdańsk"
+            ],
+            "type": "kalendarz",
+            "start_time": "2026-11-01",
+            "is_all_day": true,
+            "is_annual_recurring": false,
+            "location": "Gdańsk",
+            "linked_person_ids": []
+          }
+        }
+      ],
+      "can_undo": true
+    },
+    {
+      "id": "audit_1793533190391",
+      "timestamp": "2026-11-01T11:39:50.391Z",
+      "user_input": "W Gdańsku spotkałam super jubilera",
+      "summary": "Wyodrębniono 2 rekord(ów) i połączono relacjami.",
+      "actions": [
+        {
+          "type": "create",
+          "category": "miejsca",
+          "item_id": "miejsca_nnu8qy3_1793533190390",
+          "item_title": "Gdańsk",
+          "snapshot": {
+            "id": "miejsca_nnu8qy3_1793533190390",
+            "title": "Gdańsk",
+            "description": "Węzeł lokacyjny: Gdańsk. Miejsce spotkań, wydarzeń i wspomnień.",
+            "categories": [
+              "miejsca"
+            ],
+            "raw_input": "W Gdańsku spotkałam super jubilera",
+            "recorded_at": "2026-11-01T11:39:50.390Z",
+            "ai_classification_reason": "Rozpoznano miasto/lokalizację: Gdańsk. Węzeł służy jako kotwica przestrzenna.",
+            "tags": [
+              "miejsce",
+              "lokalizacja",
+              "gdańsk"
+            ],
+            "type": "miejsca",
+            "city": "Gdańsk",
+            "country": "Polska",
+            "visit_count": 1,
+            "last_visited": "2026-11-01",
+            "notes": "Węzeł lokacyjny: Gdańsk. Miejsce spotkań, wydarzeń i wspomnień."
+          }
+        },
+        {
+          "type": "create",
+          "category": "wspomnienia",
+          "item_id": "wspomnienia_3snacng_1793533190390",
+          "item_title": "Spotkanie z jubilerem w Gdańsku",
+          "snapshot": {
+            "id": "wspomnienia_3snacng_1793533190390",
+            "title": "Spotkanie z jubilerem w Gdańsku",
+            "description": "W Gdańsku spotkałam świetnego jubilera — inspiracja do autorskich projektów.",
+            "categories": [
+              "wspomnienia",
+              "pomysly"
+            ],
+            "raw_input": "W Gdańsku spotkałam super jubilera",
+            "recorded_at": "2026-11-01T11:39:50.390Z",
+            "ai_classification_reason": "Rozpoznano wspomnienie spotkania w konkretnym mieście.",
+            "tags": [
+              "jubiler",
+              "spotkanie",
+              "gdańsk"
+            ],
+            "type": "wspomnienia",
+            "mood": "pozytywny",
+            "linked_people": [],
+            "photo_urls": []
+          }
+        }
+      ],
+      "can_undo": true
+    }
+  ],
+  "ai_mode": "automatyczny"
+}
